@@ -45,6 +45,14 @@ EDA de ventas por región, plataforma y género, con tratamiento de nulos, outli
 
 ➡️ [Ver proyecto](https://github.com/oreon36/analisis-exploratorio-videojuegos)
 
+## 🎥 DataMente — Divulgación de Data Science e IA
+
+También desarrollo **DataMente**, un canal educativo donde comparto contenidos explicativos relacionados con Ciencia de Datos, Machine Learning, Inteligencia Artificial, estadística y fundamentos matemáticos.
+
+El objetivo del proyecto es acercar conceptos técnicos a estudiantes y personas que están comenzando en el área, reforzando al mismo tiempo competencias de **comunicación, divulgación y enseñanza de contenidos técnicos**.
+
+➡️ [Visitar canal DataMente en YouTube](https://www.youtube.com/channel/UCbTidjlNkni0x7PwMKtytpQ)
+
 ## 📚 Áreas de interés
 
 - Data Analytics
@@ -54,10 +62,12 @@ EDA de ventas por región, plataforma y género, con tratamiento de nulos, outli
 - Big Data
 - Automatización
 - Inteligencia Artificial aplicada
+- Comunicación y divulgación de contenidos técnicos
 
 ## 🤝 Conectemos
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hector87)
+- 🎥 [YouTube · DataMente](https://www.youtube.com/channel/UCbTidjlNkni0x7PwMKtytpQ)
 - 📁 [Portafolio de proyectos](https://github.com/oreon36/portafolio-analisis-datos)
 - 💻 [GitHub](https://github.com/oreon36)
 
